@@ -1,0 +1,18 @@
+lass Solution {
+    public int finalValueAfterOperations(String[] operations) {
+        int a= 0;
+        int n = operations.length;
+    for(char op:operations)
+    {
+        if(op.contains("+"))
+        {
+             a++;
+        }
+       else
+       {
+        a--;
+       }
+    }  
+    return a;  
+    }
+}
