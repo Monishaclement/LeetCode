@@ -1,0 +1,49 @@
+class Solution {
+    private boolean solve(int N, int row, List<List<String>> res, boolean[] rf, boolean[] cf, boolean[] t1f, boolean[] t2f, StringBuilder[] board) {
+        if (row == N) {
+            List<String> temp = new ArrayList<>();
+            for (int i = 0; i < N; i++) {
+                temp.add(board[i].toString());
+            }
+            res.add(temp);
+            return true;
+        }
+
+        for (int col = 0; col < N; col++) {
+            if (rf[row] || cf[col] || t1f[row + col] || t2f[N - 1 - row + col]) continue;
+
+            board[row].setCharAt(col, 'Q');
+            rf[row] = true;
+            cf[col] = true;
+            t1f[row + col] = true;
+            t2f[N - 1 - row + col] = true;
+
+            solve(N, row + 1, res, rf, cf, t1f, t2f, board);
+
+            board[row].setCharAt(col, '.');
+            rf[row] = false;
+            cf[col] = false;
+            t1f[row + col] = false;
+            t2f[N - 1 - row + col] = false;
+        }
+
+        return false;
+    }
+
+    public List<List<String>> solveNQueens(int N) {
+        List<List<String>> res = new ArrayList<>();
+        boolean[] rf = new boolean[N];
+        boolean[] cf = new boolean[N];
+        boolean[] t1f = new boolean[2 * N - 1];
+        boolean[] t2f = new boolean[2 * N - 1];
+        StringBuilder[] board = new StringBuilder[N];
+
+        for (int i = 0; i < N; i++) {
+            board[i] = new StringBuilder();
+            for (int j = 0; j < N; j++) board[i].append('.');
+        }
+
+        solve(N, 0, res, rf, cf, t1f, t2f, board);
+        return res;
+    }
+}
