@@ -50,4 +50,12 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Monishaclement/LeetCode/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Monishaclement/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Monishaclement/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
