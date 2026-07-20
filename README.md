@@ -73,4 +73,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Monishaclement/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Monishaclement/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Monishaclement/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
