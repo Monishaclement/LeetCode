@@ -87,4 +87,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Monishaclement/LeetCode/tree/master/0682-baseball-game) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Monishaclement/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
