@@ -18,6 +18,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/Monishaclement/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Monishaclement/LeetCode/tree/master/0383-ransom-note) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Monishaclement/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Monishaclement/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Monishaclement/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Monishaclement/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -62,6 +63,7 @@
 ## Math
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Monishaclement/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Monishaclement/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Monishaclement/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Monishaclement/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Monishaclement/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Monishaclement/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
