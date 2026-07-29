@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Monishaclement/LeetCode/tree/master/0182-duplicate-emails) |
+| [0620-not-boring-movies](https://github.com/Monishaclement/LeetCode/tree/master/0620-not-boring-movies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
