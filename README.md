@@ -13,6 +13,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Monishaclement/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Monishaclement/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monishaclement/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2706-buy-two-chocolates](https://github.com/Monishaclement/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/Monishaclement/LeetCode/tree/master/0409-longest-palindrome) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Monishaclement/LeetCode/tree/master/2027-minimum-moves-to-convert-string) |
+| [2706-buy-two-chocolates](https://github.com/Monishaclement/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Monishaclement/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Monishaclement/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monishaclement/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2706-buy-two-chocolates](https://github.com/Monishaclement/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/Monishaclement/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
