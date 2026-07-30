@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Monishaclement/LeetCode/tree/master/0182-duplicate-emails) |
+| [0596-classes-with-at-least-5-students](https://github.com/Monishaclement/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Monishaclement/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Monishaclement/LeetCode/tree/master/0620-not-boring-movies) |
 | [1693-daily-leads-and-partners](https://github.com/Monishaclement/LeetCode/tree/master/1693-daily-leads-and-partners) |
