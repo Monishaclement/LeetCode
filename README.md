@@ -113,6 +113,7 @@
 | [0619-biggest-single-number](https://github.com/Monishaclement/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Monishaclement/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Monishaclement/LeetCode/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Monishaclement/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1693-daily-leads-and-partners](https://github.com/Monishaclement/LeetCode/tree/master/1693-daily-leads-and-partners) |
 ## Heap (Priority Queue)
 |  |
