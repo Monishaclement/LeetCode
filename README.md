@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Monishaclement/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Monishaclement/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Monishaclement/LeetCode/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Monishaclement/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -30,6 +31,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Monishaclement/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Monishaclement/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Monishaclement/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Simulation
@@ -134,6 +136,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Monishaclement/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0877-stone-game](https://github.com/Monishaclement/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -147,4 +150,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Monishaclement/LeetCode/tree/master/0877-stone-game) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Monishaclement/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
