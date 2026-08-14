@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Monishaclement/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0205-isomorphic-strings](https://github.com/Monishaclement/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Monishaclement/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Monishaclement/LeetCode/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Monishaclement/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -51,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Monishaclement/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Monishaclement/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Monishaclement/LeetCode/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Monishaclement/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
