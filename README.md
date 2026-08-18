@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Monishaclement/LeetCode/tree/master/0056-merge-intervals) |
+| [0238-product-of-array-except-self](https://github.com/Monishaclement/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Monishaclement/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Monishaclement/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Monishaclement/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -104,6 +105,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Monishaclement/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Monishaclement/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
