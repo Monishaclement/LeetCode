@@ -18,6 +18,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Monishaclement/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monishaclement/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/Monishaclement/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Monishaclement/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Monishaclement/LeetCode/tree/master/0682-baseball-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Monishaclement/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Monishaclement/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
