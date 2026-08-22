@@ -90,6 +90,7 @@
 | [0877-stone-game](https://github.com/Monishaclement/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Monishaclement/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Monishaclement/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/Monishaclement/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Monishaclement/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Monishaclement/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Monishaclement/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
