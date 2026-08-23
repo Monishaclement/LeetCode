@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Monishaclement/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0058-length-of-last-word](https://github.com/Monishaclement/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Monishaclement/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Monishaclement/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Monishaclement/LeetCode/tree/master/0383-ransom-note) |
