@@ -21,6 +21,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monishaclement/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/Monishaclement/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Monishaclement/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Monishaclement/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0409-longest-palindrome](https://github.com/Monishaclement/LeetCode/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Monishaclement/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/Monishaclement/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Monishaclement/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
