@@ -22,6 +22,7 @@
 | [2706-buy-two-chocolates](https://github.com/Monishaclement/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Monishaclement/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Monishaclement/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3866-first-unique-even-element](https://github.com/Monishaclement/LeetCode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Monishaclement/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Monishaclement/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Monishaclement/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3866-first-unique-even-element](https://github.com/Monishaclement/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Monishaclement/LeetCode/tree/master/0383-ransom-note) |
+| [3866-first-unique-even-element](https://github.com/Monishaclement/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
