@@ -19,6 +19,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Monishaclement/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Monishaclement/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monishaclement/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Monishaclement/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2706-buy-two-chocolates](https://github.com/Monishaclement/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2965-find-missing-and-repeated-values](https://github.com/Monishaclement/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Monishaclement/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -109,6 +110,7 @@
 | [0877-stone-game](https://github.com/Monishaclement/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Monishaclement/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Monishaclement/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Monishaclement/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2469-convert-the-temperature](https://github.com/Monishaclement/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Monishaclement/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2965-find-missing-and-repeated-values](https://github.com/Monishaclement/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -120,6 +122,7 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Monishaclement/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Monishaclement/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Monishaclement/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Monishaclement/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
 |  |
