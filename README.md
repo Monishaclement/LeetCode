@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Monishaclement/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Monishaclement/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Monishaclement/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Monishaclement/LeetCode/tree/master/0056-merge-intervals) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Monishaclement/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Monishaclement/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Monishaclement/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Monishaclement/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Monishaclement/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Monishaclement/LeetCode/tree/master/0344-reverse-string) |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Monishaclement/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Monishaclement/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
