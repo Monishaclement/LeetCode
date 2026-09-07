@@ -13,6 +13,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Monishaclement/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Monishaclement/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Monishaclement/LeetCode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/Monishaclement/LeetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Monishaclement/LeetCode/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Monishaclement/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Monishaclement/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Monishaclement/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Monishaclement/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Monishaclement/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
