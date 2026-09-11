@@ -21,6 +21,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Monishaclement/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Monishaclement/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monishaclement/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Monishaclement/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Monishaclement/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2706-buy-two-chocolates](https://github.com/Monishaclement/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2965-find-missing-and-repeated-values](https://github.com/Monishaclement/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -82,6 +83,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Monishaclement/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/Monishaclement/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Monishaclement/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Monishaclement/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Monishaclement/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Monishaclement/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Monishaclement/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -95,6 +97,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Monishaclement/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Monishaclement/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monishaclement/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Monishaclement/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2706-buy-two-chocolates](https://github.com/Monishaclement/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2785-sort-vowels-in-a-string](https://github.com/Monishaclement/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/Monishaclement/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -149,6 +152,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Monishaclement/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Monishaclement/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Monishaclement/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Monishaclement/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -181,6 +185,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Monishaclement/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Monishaclement/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Monishaclement/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
