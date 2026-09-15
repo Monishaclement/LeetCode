@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Monishaclement/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Monishaclement/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Monishaclement/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Monishaclement/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Monishaclement/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Monishaclement/LeetCode/tree/master/0056-merge-intervals) |
@@ -107,6 +108,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Monishaclement/LeetCode/tree/master/0035-search-insert-position) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monishaclement/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
