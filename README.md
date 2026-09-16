@@ -51,6 +51,7 @@
 | [2027-minimum-moves-to-convert-string](https://github.com/Monishaclement/LeetCode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Monishaclement/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Monishaclement/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [4006-count-valid-prefixes](https://github.com/Monishaclement/LeetCode/tree/master/4006-count-valid-prefixes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/Monishaclement/LeetCode/tree/master/0383-ransom-note) |
 | [3866-first-unique-even-element](https://github.com/Monishaclement/LeetCode/tree/master/3866-first-unique-even-element) |
+| [4006-count-valid-prefixes](https://github.com/Monishaclement/LeetCode/tree/master/4006-count-valid-prefixes) |
 ## Math
 |  |
 | ------- |
