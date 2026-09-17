@@ -180,6 +180,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/Monishaclement/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Monishaclement/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1211-queries-quality-and-percentage](https://github.com/Monishaclement/LeetCode/tree/master/1211-queries-quality-and-percentage) |
+| [1484-group-sold-products-by-the-date](https://github.com/Monishaclement/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1693-daily-leads-and-partners](https://github.com/Monishaclement/LeetCode/tree/master/1693-daily-leads-and-partners) |
 ## Heap (Priority Queue)
 |  |
