@@ -182,6 +182,7 @@
 | [1211-queries-quality-and-percentage](https://github.com/Monishaclement/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1484-group-sold-products-by-the-date](https://github.com/Monishaclement/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1693-daily-leads-and-partners](https://github.com/Monishaclement/LeetCode/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Monishaclement/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
