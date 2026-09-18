@@ -37,6 +37,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Monishaclement/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Monishaclement/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Monishaclement/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monishaclement/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Monishaclement/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Monishaclement/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Monishaclement/LeetCode/tree/master/0344-reverse-string) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Monishaclement/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Monishaclement/LeetCode/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monishaclement/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Monishaclement/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Monishaclement/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Monishaclement/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -237,4 +239,20 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Monishaclement/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monishaclement/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monishaclement/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monishaclement/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monishaclement/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
