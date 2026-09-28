@@ -12,6 +12,7 @@
 | [0045-jump-game-ii](https://github.com/Monishaclement/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Monishaclement/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Monishaclement/LeetCode/tree/master/0056-merge-intervals) |
+| [0118-pascals-triangle](https://github.com/Monishaclement/LeetCode/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/Monishaclement/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Monishaclement/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Monishaclement/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -212,6 +213,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Monishaclement/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Monishaclement/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Monishaclement/LeetCode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Monishaclement/LeetCode/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/Monishaclement/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
