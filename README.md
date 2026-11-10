@@ -21,6 +21,7 @@
 | [0682-baseball-game](https://github.com/Monishaclement/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Monishaclement/LeetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Monishaclement/LeetCode/tree/master/0877-stone-game) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Monishaclement/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1331-rank-transform-of-an-array](https://github.com/Monishaclement/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Monishaclement/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Monishaclement/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -84,6 +85,7 @@
 | [0409-longest-palindrome](https://github.com/Monishaclement/LeetCode/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Monishaclement/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/Monishaclement/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Monishaclement/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Monishaclement/LeetCode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2706-buy-two-chocolates](https://github.com/Monishaclement/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
@@ -134,6 +136,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Monishaclement/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Monishaclement/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Monishaclement/LeetCode/tree/master/0877-stone-game) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Monishaclement/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Monishaclement/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Monishaclement/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Monishaclement/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
